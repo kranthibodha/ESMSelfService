@@ -16,7 +16,7 @@ import javax.annotation.processing.Generated;
 @CdsName("sap.common.Languages")
 @Generated(
     value = "cds-maven-plugin",
-    date = "2024-12-16T12:14:12.050000700Z",
+    date = "2024-12-16T12:22:12.221172700Z",
     comments = "com.sap.cds:cds-maven-plugin:2.7.0 / com.sap.cds:cds4j-api:2.7.0"
 )
 public interface Languages_ extends StructuredType<Languages_> {
