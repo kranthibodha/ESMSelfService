@@ -14,7 +14,7 @@ import javax.annotation.processing.Generated;
 @CdsName("sap.common.CodeList")
 @Generated(
     value = "cds-maven-plugin",
-    date = "2024-12-16T12:22:12.221172700Z",
+    date = "2025-01-09T07:41:58.579886500Z",
     comments = "com.sap.cds:cds-maven-plugin:2.7.0 / com.sap.cds:cds4j-api:2.7.0"
 )
 public interface CodeList extends CdsData {

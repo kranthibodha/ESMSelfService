@@ -1,1 +1,0 @@
-A Simple Illustration of Service Cloud APis Usage from BTP
